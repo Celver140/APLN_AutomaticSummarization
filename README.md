@@ -3,7 +3,7 @@ Automatic Summarization System that combines information extraction techniques w
 
 Authors:
 - Celia Redondo Verdú
-- Sergio Muñoz García
+- Sergio García Muñoz
 - Serine Benmohra
 
 
