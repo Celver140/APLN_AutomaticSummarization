@@ -1,0 +1,13 @@
+pdfplumber
+regex
+spacy
+transformers
+langchain[chromadb]
+sentence-transformers
+pypdf
+chromadb
+faiss-cpu
+langchain-community
+torch
+numpy
+# pip install faiss-cpu
