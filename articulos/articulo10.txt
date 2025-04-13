@@ -1,0 +1,101 @@
+Artículo 10. Cuantía variable.
+
+1. El montante de crédito que, de acuerdo con el apartado 3 del artículo 2 se destinará a la
+cuantía variable, se distribuirá entre los solicitantes en función de su renta familiar y de su rendimiento
+académico, mediante la aplicación de la siguiente fórmula:
+   Rj  
+ Nj/N *1  
+Cj C
+min
+  C
+total
+S*C min*
+S
+max  
+
+ R m Rax    
+ N /N *1 i 
+
+ i1
+i max 
+
+ R
+max
+  
+
+En la que,
+Cj= Cuantía variable a percibir por el becario
+Cmin = Cuantía variable mínima, que se establecerá en los reales decretos anuales que fijen los
+umbrales económicos y los demás requisitos necesarios para obtener beca o ayuda al estudio
+Ctotal = Importe total a distribuir de forma variable: en cada convocatoria se podrán fijar una o
+más masas de recursos a distribuir, en función del tipo de enseñanzas
+S= número de perceptores de cuantía variable
+Nj= Nota media del becario. Para el cálculo de esta nota media se computarán también las
+calificaciones correspondientes a asignaturas o créditos no superados, si los hubiere.
+Ni = Nota media de cada uno de los becarios a que se refiere S
+Nmax: Nota media obtenida por el mejor decil de becarios en el caso de estudiantes no
+universitarios, o nota media obtenida por el mejor decil de becarios de la misma área de conocimiento
+del becario en el caso de estudiantes universitarios. En el caso de estudiantes de enseñanzas
+artísticas superiores y estudios religiosos superiores, Nmax será igual al mejor decil de becarios de
+los estudiantes universitarios de la rama de Artes y Humanidades. Para el cálculo de Nmax no se
+computarán las notas de aquellos becarios a los que, de acuerdo con lo dispuesto en esta
+convocatoria, les corresponda percibir la cuantía variable mínima.
+Rj= Renta per cápita del becario (igual a cero si Rj es negativo)
+Ri = Renta per cápita de cada uno de los becarios a que se refiere S
+Rmax = Renta per cápita máxima para ser beneficiario de la cuantía variable
+Para el cálculo de la nota media del estudiante, referida anteriormente N se aplicarán las
+siguientes reglas:
+8
+CSV : GEN-93d6-2263-c487-92ef-6239-85f3-9e53-1098
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : ALEJANDRO TIANA FERRER | FECHA : 28/07/2021 09:29 | NOTAS : F
+A las calificaciones de los becarios de primer curso de grado procedentes de la Evaluación de
+Bachillerato para el Acceso a la Universidad se les aplicará un coeficiente corrector igual al cociente
+entre la calificación media obtenida en los estudios universitarios por los becarios del área de
+conocimiento que corresponda y la calificación media obtenida en Evaluación de Bachillerato para el
+Acceso a la Universidad, excluyendo la nota de las pruebas de las materias de opción del bloque de
+las asignaturas troncales, por todos los beneficiarios que van cursar primer curso en dicha área de
+conocimiento.
+A las calificaciones de los becarios de primer curso de grado procedentes de ciclos formativos
+de grado superior se les aplicará un coeficiente corrector igual al cociente entre la calificación media
+obtenida en los estudios universitarios por los becarios del área de conocimiento que corresponda y
+la media de las calificaciones obtenidas por todos los becarios de primer curso procedentes de ciclos
+formativos de grado superior.
+A las calificaciones de los becarios de primer curso de máster se les aplicará un coeficiente
+corrector de 1,17 cuando sus calificaciones procedan de titulaciones del área de arquitectura e
+ingeniería.
+Para los becarios de primer curso de bachillerato, de primer curso de grado medio de formación
+profesional, de artes plásticas y diseño, de las enseñanzas deportivas y de las enseñanzas
+profesionales de música y danza se tendrá en cuenta, a los efectos de la aplicación de esta fórmula,
+la calificación obtenida en el cuarto curso de educación secundaria obligatoria, la nota obtenida en la
+prueba de acceso o en la calificación final del ciclo formativo de grado medio o de grado básico que
+dé acceso a estas enseñanzas.
+Para los becarios de primer curso de grado superior de formación profesional, de artes plásticas
+y diseño y de enseñanzas deportivas, se tendrán en cuenta a los efectos de aplicación de esta
+fórmula, la nota media obtenida en segundo curso de bachillerato o en la prueba o curso que dan
+acceso a estas enseñanzas. En el caso de los alumnos que accedan desde un ciclo formativo de
+formación profesional de grado medio se tendrá en cuenta la calificación final del ciclo.
+A los referidos efectos, en el caso de primer curso de enseñanzas artísticas superiores y estudios
+religiosos superiores, se tendrá en cuenta la calificación obtenida en la prueba o curso que dan
+acceso a estas enseñanzas.
+Para los becarios de segundo curso de bachillerato se tendrá en cuenta la nota media final de
+todas las asignaturas de primer curso de bachillerato.
+Para los becarios de segundos cursos de formación profesional se tendrá en cuenta la nota
+media final de todos los módulos que integren el primer curso.
+El Ministerio de Educación y Formación Profesional calculará los parámetros de la fórmula, que
+se comunicarán a las comunidades autónomas firmantes del convenio para la gestión de las becas,
+a los efectos de su aplicación para la asignación de la cuantía variable a los becarios.
+2. Podrán ser beneficiarios de la cuantía variable los solicitantes que cursen tanto enseñanzas
+universitarias como no universitarias.
+No obstante, quienes cursen estudios no universitarios en modalidad íntegramente no presencial,
+quienes opten por la matrícula parcial, oferta específica para personas adultas o bachillerato nocturno
+estructurado en más de dos años, quienes cursen los estudios enumerados en las letras g), h ) e
+9
+CSV : GEN-93d6-2263-c487-92ef-6239-85f3-9e53-1098
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : ALEJANDRO TIANA FERRER | FECHA : 28/07/2021 09:29 | NOTAS : F
+i) del artículo 3.1, en las letras b) y c) del artículo 3.2 de esta Resolución, quienes únicamente realicen
+el trabajo de fin de grado o máster, o titulaciones de planes a extinguir sin docencia presencial
+recibirán la cuantía variable mínima.
+3. Para la concesión de la cuantía variable, la renta del solicitante no podrá superar el umbral 2
+de renta familiar establecido en esta Resolución.

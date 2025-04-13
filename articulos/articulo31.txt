@@ -1,0 +1,50 @@
+Artículo 32. Cálculo de la nota media para enseñanzas no universitarias.
+
+Para el cálculo de las notas medias de las enseñanzas a que se refieren los artículos siguientes
+se aplicarán las siguientes reglas:
+1ª. La nota media se calculará con las calificaciones numéricas finales del último curso
+académico obtenidas por los estudiantes en la escala 0 a 10.
+Las asignaturas no presentadas se valorarán con 2,50 puntos.
+2ª. En el caso de los alumnos que accedan directamente desde cualquier ciclo de formación
+profesional a unas enseñanzas no universitarias de nivel superior, la nota media será la calificación
+final del ciclo formativo correspondiente desde el que se accede.
+27
+CSV : GEN-93d6-2263-c487-92ef-6239-85f3-9e53-1098
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : ALEJANDRO TIANA FERRER | FECHA : 28/07/2021 09:29 | NOTAS : F
+3ª. En todo caso, las notas medias serán las correspondientes al curso o, en el caso de la regla
+2ª anterior, al ciclo completo, con independencia del número de años que el alumno hubiera empleado
+para su superación.
+4ª. Únicamente cuando no existan calificaciones numéricas, las calificaciones obtenidas se
+computarán según el siguiente baremo:
+a) Matrícula de Honor = 10 puntos.
+b) Sobresaliente = 9 puntos.
+c) Notable = 7,5 puntos.
+d) Aprobado o apto = 5,5 puntos.
+e) Suspenso, no presentado o no apto = 2,50 puntos.
+5ª. Cuando se trate de planes de estudio organizados por asignaturas, la nota media se calculará
+dividiendo el total de puntos obtenidos entre el número total de asignaturas.
+6ª. Cuando se trate de planes de estudios organizados por créditos o por módulos, la puntuación
+obtenida en cada asignatura se ponderará en función del número de créditos o de horas que la
+integren, de acuerdo con la siguiente fórmula:
+P x NCa
+V =
+NCt
+V = Valor resultante de la ponderación de la nota obtenida en cada asignatura.
+P = Puntuación de cada asignatura.
+NCa = Número de créditos u horas que integran la asignatura.
+NCt = Número de créditos u horas cursadas y que tienen la consideración de computables en
+esta Resolución.
+Los valores resultantes de la aplicación de dicha fórmula se sumarán, siendo el resultado la nota
+media final.
+7ª. Las asignaturas y créditos reconocidos, convalidados, adaptados y transferidos no se tendrán
+en cuenta a los efectos del cumplimiento de los requisitos académicos establecidos en esta
+convocatoria.
+8ª. Las prácticas externas curriculares y los trabajos, proyectos o exámenes de fin de estudios
+se contabilizarán como asignaturas con los créditos que tengan asignados y con la calificación
+obtenida por el estudiante.
+9ª. Para el cálculo de la nota media en el caso de expedientes procedentes de centros
+extranjeros, la comisión de selección establecerá la equivalencia al sistema decimal español
+asignatura por asignatura, teniendo en cuenta la nota mínima de aprobado y la máxima de la
+calificación original y la consiguiente relación de correspondencia con el sistema de calificación
+decimal español.

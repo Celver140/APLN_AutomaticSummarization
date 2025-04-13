@@ -1,0 +1,55 @@
+Artículo 30. Cálculo de la nota media.
+
+1. Para la concesión de beca a quienes se matriculen por primera vez de primer curso de estudios
+de máster, la nota media requerida se calculará con las calificaciones numéricas obtenidas por los
+estudiantes en la escala 0 a 10 en los créditos de que conste el plan de estudios de la titulación que
+les da acceso al máster.
+25
+CSV : GEN-93d6-2263-c487-92ef-6239-85f3-9e53-1098
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : ALEJANDRO TIANA FERRER | FECHA : 28/07/2021 09:29 | NOTAS : F
+2. Para la concesión de beca a quienes se matriculen de segundo curso, la nota media requerida
+será la calificación numérica obtenida en la escala 0 a 10 en el curso anterior, incluyendo, en su caso,
+los complementos formativos cursados.
+3. Cuando no existan calificaciones numéricas, las calificaciones obtenidas se computarán según
+el siguiente baremo:
+a) Matrícula de Honor = 10 puntos.
+b) Sobresaliente = 9 puntos.
+c) Notable = 7,5 puntos.
+d) Aprobado o apto = 5,5 puntos.
+4. Cuando se trate de planes de estudio organizados por asignaturas, la nota media se calculará
+dividiendo el total de puntos obtenidos entre el número total de asignaturas.
+5. Cuando se trate de planes de estudios organizados por créditos, la puntuación obtenida en
+cada asignatura se ponderará en función del número de créditos que la integren, de acuerdo con la
+siguiente fórmula:
+P x NCa
+V =
+NCt
+V = Valor resultante de la ponderación de la nota obtenida en cada asignatura.
+P = Puntuación de cada asignatura.
+NCa = Número de créditos que integran la asignatura.
+NCt = Número de créditos cursados y que tienen la consideración de computables en esta
+Resolución.
+Los valores resultantes de la aplicación de dicha fórmula se sumarán, siendo el resultado la nota
+media final.
+6. Las asignaturas y créditos reconocidos, convalidados, adaptados y transferidos únicamente
+se tendrán en cuenta a los efectos del cálculo de la nota media de la titulación que dé acceso al
+primer curso de máster. En dicho supuesto tendrán la equivalencia en puntos correspondiente a la
+calificación obtenida en el centro de procedencia. Cuando no exista esta calificación se valorarán
+como aprobado (5,5 puntos).
+7. Las prácticas externas curriculares y los trabajos, proyectos o exámenes de fin de grado se
+contabilizarán como asignaturas con los créditos que tengan asignados y con la calificación obtenida
+por el estudiante.
+8. Para el cálculo de la nota media en el caso de expedientes procedentes de universidades
+extranjeras, la comisión de selección establecerá la equivalencia al sistema decimal español
+asignatura por asignatura, teniendo en cuenta la nota mínima de aprobado y la máxima de la
+calificación original y la consiguiente relación de correspondencia con el sistema de calificación
+decimal español.
+9. Cuando el acceso al máster se produzca desde titulaciones de sólo segundo ciclo, la nota
+media se hallará teniendo en cuenta también las calificaciones obtenidas en el primer ciclo anterior.
+26
+CSV : GEN-93d6-2263-c487-92ef-6239-85f3-9e53-1098
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : ALEJANDRO TIANA FERRER | FECHA : 28/07/2021 09:29 | NOTAS : F
+La nota media se obtendrá de la suma de las calificaciones obtenidas en cada una de las asignaturas
+dividida por el total.

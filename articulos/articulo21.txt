@@ -1,0 +1,45 @@
+Artículo 22. Cálculo de la nota media.
+
+Para el cálculo de las notas medias a que se refieren los artículos siguientes se aplicarán las
+siguientes reglas:
+1. La nota media se calculará con las calificaciones numéricas finales del curso académico
+obtenidas por los estudiantes en la escala 0 a 10. Las asignaturas no presentadas se valorarán con
+2,50 puntos.
+2. Únicamente cuando no existan calificaciones numéricas, las calificaciones obtenidas se
+computarán según el siguiente baremo:
+a) Matrícula de Honor = 10 puntos.
+b) Sobresaliente = 9 puntos.
+c) Notable = 7,5 puntos.
+d) Aprobado o apto = 5,5 puntos.
+e) Suspenso, no presentado o no apto = 2,50 puntos.
+3. Cuando se trate de planes de estudio organizados por asignaturas, la nota media se calculará
+dividiendo el total de puntos obtenidos entre el número total de asignaturas.
+18
+CSV : GEN-93d6-2263-c487-92ef-6239-85f3-9e53-1098
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : ALEJANDRO TIANA FERRER | FECHA : 28/07/2021 09:29 | NOTAS : F
+4. Cuando se trate de planes de estudios organizados por créditos, la puntuación obtenida en
+cada asignatura se ponderará en función del número de créditos que la integren, de acuerdo con la
+siguiente fórmula:
+P x NCa
+V =
+NCt
+V = Valor resultante de la ponderación de la nota obtenida en cada asignatura.
+P = Puntuación de cada asignatura.
+NCa = Número de créditos que integran la asignatura.
+NCt = Número de créditos cursados y que tienen la consideración de computables en esta
+Resolución.
+Los valores resultantes de la aplicación de dicha fórmula se sumarán, siendo el resultado la nota
+media final.
+5. Con la excepción recogida en el artículo 33.1.1º, en el 43.2, y demás salvedades establecidas
+en esta convocatoria, las asignaturas y créditos reconocidos, convalidados, adaptados y transferidos
+no se tendrán en cuenta a los efectos del cumplimiento de los requisitos académicos establecidos en
+esta convocatoria.
+6. Las prácticas externas curriculares y los trabajos, proyectos o exámenes de fin de grado se
+contabilizarán como asignaturas con los créditos que tengan asignados y con la calificación obtenida
+por el estudiante.
+7. Para el cálculo de la nota media en el caso de expedientes procedentes de universidades
+extranjeras, la comisión de selección establecerá la equivalencia al sistema decimal español
+asignatura por asignatura, teniendo en cuenta la nota mínima de aprobado y la máxima de la
+calificación original y la consiguiente relación de correspondencia con el sistema de calificación
+decimal español.
